@@ -1,14 +1,2 @@
 # Assistente
 
-#Banco de Dados
-
-ASSISTENTE
-    RESPONSAVEL
-        NOME
-        CPF
-        CRC
-    CLIENTE
-        NOME
-        CPF/CNPJ
-        CADASTRO_MUNICIPAL
-        EMAIL
