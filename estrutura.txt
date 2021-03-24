@@ -1,12 +1,18 @@
 #Banco de Dados
 
 ASSISTENTE
-    RESPONSAVEL
+    RESPONSAVEL_TECNICO
+        ID
         NOME
         CPF
         CRC
     CLIENTE
+        ID
         NOME
         CPF/CNPJ
+        CADASTRO_ESTADUAL
         CADASTRO_MUNICIPAL
         EMAIL
+        SENHA_ESTADUAL
+        SENHA_MUNICIPAL
+        FK_ID_RESPONSAVEL_TECNICO
